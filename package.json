@@ -1,0 +1,13 @@
+{
+  "name": "todo-list-2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {},
+  "scripts": {
+    "dev": "parcel serve ./src/index.html"
+  },
+  "dependencies": {
+    "parcel": "2.2.1"
+  }
+}
